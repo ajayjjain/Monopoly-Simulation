@@ -1,2 +1,4 @@
 # Monopoly-Simulation
-Determines how many rolls it takes to land in jail.
+My AP Statistics teacher described a Monopoly program using a random number generator to generate dice rolls until a player landed in jail. He announced that we could program a simulation. I was intrigued and decided to take up the challenge. My math teacher told us to consider an actual landing on the jail space, but I decided to add the three other conditions: picking up a Go to Jail Chance Card or Community Chest Card or rolling three doubles in a row in order to make the simulation more realistic. 
+
+The assignment allowed me to further explore statistics and computer science, developing a deeper understanding and passion for both subjects. I learned about different areas of statistics while applying them to the content I was learning in my class, such as boxplots and outliers. Programs are never truly finished:  instead, they go through several updates. Even though the Monopoly assignment seemed simple, it took three languages and months for the current version to be released.
